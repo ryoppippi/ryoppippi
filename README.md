@@ -94,16 +94,16 @@
 ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
 ![Matlab](https://img.shields.io/badge/Matlab-red?style=for-the-badge&logo=matlab&logoColor=white)
 
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Jetson Nano](https://img.shields.io/badge/-JetsonNano-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Processing](https://img.shields.io/badge/processing-%230C55A5.svg?style=for-the-badge&logo=Processing-Foundation&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
 ![AFrame](https://img.shields.io/badge/-aframe-EF2D5E?style=for-the-badge&logo=A-frame&logoColor=FFFFFF)
 ![D3](https://img.shields.io/badge/d3-%23276DC3.svg?style=for-the-badge&logo=d3.js&logoColor=white)
+
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Jetson Nano](https://img.shields.io/badge/-JetsonNano-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 <!-- [![](https://raw.githubusercontent.com/ryoppippi/ryoppippi/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 <!-- [![](https://raw.githubusercontent.com/ryoppippi/ryoppippi/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  -->
