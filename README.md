@@ -3,7 +3,7 @@
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-%234DC730.svg?style=for-the-badge&logoColor=white)](https://s.ryoppippi.com/portfolio) -->
-[![CV](https://img.shields.io/badge/CV-%23FF0000.svg?style=for-the-badge&logoColor=white)](https://cv.ryoppippi.com)
+[![CV](https://img.shields.io/badge/CV-purple.svg?style=for-the-badge&logoColor=white)](https://cv.ryoppippi.com)
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ryoppippi)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ryoppippi)
