@@ -2,9 +2,11 @@
 
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-%234DC730.svg?style=for-the-badge&logoColor=white)](https://s.ryoppippi.com/portfolio)
+[![CV](https://img.shields.io/badge/CV-%23FF0000.svg?style=for-the-badge&logoColor=white)](https://cv.ryoppippi.com)
+
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ryoppippi)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ryoppippi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%234DC730.svg?style=for-the-badge&logoColor=white)](https://s.ryoppippi.com/portfolio)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryoppippi)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCJbUM-yZx6mESJw82-OpMuQ)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/accounts/login/?next=/ryoppippi/)
@@ -13,6 +15,7 @@
 <!-- https://github.com/Ileriayo/markdown-badges -->
 
 
+[![Claw44](https://img.shields.io/badge/claw44-%230077B5.svg?style=for-the-badge&logoColor=white)](https://shop.dailycraft.jp/products/claw44)
 
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
