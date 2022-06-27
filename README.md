@@ -105,6 +105,11 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Jetson Nano](https://img.shields.io/badge/-JetsonNano-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ryoppippi/ryoppippi/output/github-contribution-grid-snake.svg" />
+</p>
+
+
 <!-- [![](https://raw.githubusercontent.com/ryoppippi/ryoppippi/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 <!-- [![](https://raw.githubusercontent.com/ryoppippi/ryoppippi/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  -->
 <!-- [![](https://raw.githubusercontent.com/ryoppippi/ryoppippi/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ryoppippi/ryoppippi/master/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  -->
