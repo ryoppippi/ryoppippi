@@ -1,15 +1,14 @@
 ## Hi! I'm ryoppippi
 
-<div align="center">
-  <a href="https://github.com/ryoppippi">
-    <img src="https://github-readme-stats.vercel.app/api?username=ryoppippi&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-  </a>
-</div>
-
+<!-- <div align="center"> -->
+<!--   <a href="https://github.com/ryoppippi"> -->
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=ryoppippi&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"> -->
+<!--   </a> -->
+<!-- </div> -->
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
 <div align="center">
-  <a href="https://cv.ryoppippi.com" target="_blank" alt="cv"><img src="https://img.shields.io/badge/CV-purple.svg?style=for-the-badge&logoColor=white"></a>
+  <a href="https://cv.ryoppippi.com" target="_blank" alt="cv"><img src="https://img.shields.io/badge/MY-CV-purple?style=for-the-badge"></a>
 </div>
 <div align="center">
   <a href="https://github.com/ryoppippi" target="_blank" alt="github"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -20,10 +19,10 @@
 </div>
 
 ## My Gears
+
 <!-- https://github.com/Ileriayo/markdown-badges -->
 
-
-[![Claw44](https://img.shields.io/badge/claw44-%230077B5.svg?style=for-the-badge&logoColor=white)](https://shop.dailycraft.jp/products/claw44)
+[![Claw44](https://img.shields.io/badge/Keyboard-Claw44-3670A0?style=for-the-badge)](https://shop.dailycraft.jp/products/claw44)
 
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
@@ -40,9 +39,10 @@
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 
-
 ## Skills
+
 <!-- https://github.com/Ileriayo/markdown-badges -->
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -116,7 +116,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/ryoppippi/ryoppippi/output/github-contribution-grid-snake.svg" />
 </div>
-
 
 <!-- [![](https://raw.githubusercontent.com/ryoppippi/ryoppippi/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 <!-- [![](https://raw.githubusercontent.com/ryoppippi/ryoppippi/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  -->
