@@ -17,6 +17,7 @@
 <div align="center">
   <a href="https://github.com/ryoppippi" target="_blank" alt="github"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://twitter.com/ryoppippi" target="_blank" alt="twitter"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+  <a href="https://zenn.dev/ryoppippi" target="_blank" alt="zenn"><img src="https://img.shields.io/badge/Zenn-%20%233EA8FF.svg?style=for-the-badge&logo=Zenn&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/ryoppippi" target="_blank" alt="linkedin"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.youtube.com/channel/UCJbUM-yZx6mESJw82-OpMuQ" target="_blank" alt="youtube"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
   <a href="https://www.instagram.com/accounts/login/?next=/ryoppippi/" target="_blank" alt="instagram"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
