@@ -1,5 +1,9 @@
 ## Hi! I'm ryoppippi
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ryoppippi/ryoppippi/output/github-contribution-grid-snake.svg" />
+</div>
+
 <!-- <div align="center"> -->
 <!--   <a href="https://github.com/ryoppippi"> -->
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=ryoppippi&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"> -->
@@ -114,9 +118,6 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Jetson Nano](https://img.shields.io/badge/-JetsonNano-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ryoppippi/ryoppippi/output/github-contribution-grid-snake.svg" />
-</div>
 
 <!-- [![](https://raw.githubusercontent.com/ryoppippi/ryoppippi/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 <!-- [![](https://raw.githubusercontent.com/ryoppippi/ryoppippi/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  -->
