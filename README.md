@@ -40,7 +40,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
-![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
+[![Arc](https://img.shields.io/badge/Arc-FCBFBD?style=for-the-badge&&logo=arc&logoColor=000)](#)
 
 ## My ❤️
 
