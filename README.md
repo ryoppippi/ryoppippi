@@ -14,6 +14,7 @@ If my code has helped you, please consider <a href="https://github.com/sponsors/
 <!-- https://github.com/Ileriayo/markdown-badges -->
 <div align="center">
   <a href="https://ryoppippi.com" target="_blank" alt="cv"><img src="https://img.shields.io/badge/MY-SITE-purple?style=for-the-badge"></a>
+  <a href="https://cv.ryoppippi.com/pdf" target="_blank" alt="cv"><img src="https://img.shields.io/badge/MY-CV-purple?style=for-the-badge"></a>
 </div>
 <div align="center">
   <a href="https://github.com/ryoppippi" target="_blank" alt="github"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
