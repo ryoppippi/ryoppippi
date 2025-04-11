@@ -2,7 +2,7 @@
 
 If my code has helped you, please consider <a href="https://github.com/sponsors/ryoppippi">sponsoring me</a>. 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f6f62cf5-73e0-4355-ae2b-d0c43d0aa29b" />
+  <img src="https://ryoppippi.com/haichu.avif" />
 </div>
 
 <div align="center">
