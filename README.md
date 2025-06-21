@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/ryoppippi/sponsors/sponsors.circles.svg">
+    <img src="https://cdn.jsdelivr.net/gh/ryoppippi/sponsors@main/sponsors.circles.svg">
     <p> Thank you for your support!</p>
     <p>If my code has helped you, please consider <a href="https://github.com/sponsors/ryoppippi">sponsoring me</a>.</p> 
 </div>
