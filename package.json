@@ -11,7 +11,8 @@
     "lint:publint": "publint"
   },
   "files": [
-    "index.mjs"
+    "index.mjs",
+    "config.json"
   ],
   "author": "ryoppippi",
   "license": "MIT",
