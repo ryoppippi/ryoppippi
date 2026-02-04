@@ -1,0 +1,33 @@
+{
+  "name": "ryoppippi",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "ryoppippi's npm package",
+  "exports": "./index.mjs",
+  "bin": "./index.mjs",
+  "scripts": {
+    "start": "./index.mjs",
+    "lint": "pnpm run /^lint:/",
+    "lint:publint": "publint"
+  },
+  "files": [
+    "index.mjs"
+  ],
+  "author": "ryoppippi",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryoppippi/ryoppippi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ryoppippi/ryoppippi/issues"
+  },
+  "homepage": "https://github.com/ryoppippi/ryoppippi#readme",
+  "packageManager": "pnpm@10.28.0",
+  "dependencies": {
+    "open": "^11.0.0"
+  },
+  "devDependencies": {
+    "publint": "^0.3.17"
+  }
+}
