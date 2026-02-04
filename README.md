@@ -29,4 +29,3 @@
 <div align="center">
     Nostr:  npub1ry0pphdvvu96gr228ptthyhwle39n7v0hyw0zydmngac3a6x3vus2ujd30
 </div>
-

@@ -1,51 +1,75 @@
 {
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixpkgs-unstable";
+    flake-parts.url = "github:hercules-ci/flake-parts";
+    git-hooks.url = "github:cachix/git-hooks.nix";
+    treefmt-nix.url = "github:numtide/treefmt-nix";
   };
 
   outputs =
-    { nixpkgs, ... }:
+    inputs@{
+      flake-parts,
+      git-hooks,
+      treefmt-nix,
+      ...
+    }:
     let
+      config = builtins.fromJSON (builtins.readFile ./config.json);
+    in
+    flake-parts.lib.mkFlake { inherit inputs; } {
       systems = [
         "x86_64-linux"
         "aarch64-linux"
         "x86_64-darwin"
         "aarch64-darwin"
       ];
-      forAllSystems = nixpkgs.lib.genAttrs systems;
-      config = builtins.fromJSON (builtins.readFile ./config.json);
-    in
-    {
-      packages = forAllSystems (
-        system:
+
+      perSystem =
+        { pkgs, system, ... }:
         let
-          pkgs = nixpkgs.legacyPackages.${system};
+          treefmtEval = treefmt-nix.lib.evalModule pkgs {
+            projectRootFile = "flake.nix";
+            programs = {
+              nixfmt.enable = true;
+              deadnix.enable = true;
+              statix.enable = true;
+            };
+            settings.formatter.oxfmt = {
+              command = "${pkgs.oxfmt}/bin/oxfmt";
+              options = [ "--no-error-on-unmatched-pattern" ];
+              includes = [ "*" ];
+            };
+          };
+
+          pre-commit-check = git-hooks.lib.${system}.run {
+            src = ./.;
+            hooks = {
+              treefmt = {
+                enable = true;
+                package = treefmtEval.config.build.wrapper;
+              };
+            };
+          };
+
           opener =
-            if pkgs.stdenv.isDarwin then
-              "/usr/bin/open"
-            else
-              "${pkgs.lib.getExe' pkgs.xdg-utils "xdg-open"}";
+            if pkgs.stdenv.isDarwin then "/usr/bin/open" else "${pkgs.lib.getExe' pkgs.xdg-utils "xdg-open"}";
         in
         {
-          default = pkgs.writeShellScriptBin config.name ''
+          packages.default = pkgs.writeShellScriptBin config.name ''
             ${opener} "${config.url}"
           '';
-        }
-      );
 
-      devShells = forAllSystems (
-        system:
-        let
-          pkgs = nixpkgs.legacyPackages.${system};
-        in
-        {
-          default = pkgs.mkShellNoCC {
+          formatter = treefmtEval.config.build.wrapper;
+
+          devShells.default = pkgs.mkShellNoCC {
             packages = [
               pkgs.nodejs_24
               pkgs.pnpm
             ];
+            shellHook = ''
+              ${pre-commit-check.shellHook}
+            '';
           };
-        }
-      );
+        };
     };
 }

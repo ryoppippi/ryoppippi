@@ -1,34 +1,34 @@
 {
   "name": "ryoppippi",
   "version": "1.0.0",
-  "type": "module",
   "description": "ryoppippi's npm package",
-  "exports": "./index.mjs",
+  "homepage": "https://github.com/ryoppippi/ryoppippi#readme",
+  "bugs": {
+    "url": "https://github.com/ryoppippi/ryoppippi/issues"
+  },
+  "license": "MIT",
+  "author": "ryoppippi",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryoppippi/ryoppippi.git"
+  },
   "bin": "./index.mjs",
+  "files": [
+    "config.json",
+    "index.mjs"
+  ],
+  "type": "module",
+  "exports": "./index.mjs",
   "scripts": {
     "start": "./index.mjs",
     "lint": "pnpm run /^lint:/",
     "lint:publint": "publint"
   },
-  "files": [
-    "index.mjs",
-    "config.json"
-  ],
-  "author": "ryoppippi",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ryoppippi/ryoppippi.git"
-  },
-  "bugs": {
-    "url": "https://github.com/ryoppippi/ryoppippi/issues"
-  },
-  "homepage": "https://github.com/ryoppippi/ryoppippi#readme",
-  "packageManager": "pnpm@10.28.0",
   "dependencies": {
     "open": "^11.0.0"
   },
   "devDependencies": {
     "publint": "^0.3.17"
-  }
+  },
+  "packageManager": "pnpm@10.28.0"
 }
