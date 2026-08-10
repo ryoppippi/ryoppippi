@@ -28,7 +28,7 @@
     "open": "^11.0.0"
   },
   "devDependencies": {
-    "publint": "^0.3.22"
+    "publint": "^0.3.23"
   },
   "packageManager": "pnpm@10.34.5"
 }
