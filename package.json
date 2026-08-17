@@ -25,7 +25,7 @@
     "lint:publint": "publint"
   },
   "dependencies": {
-    "open": "^11.0.0"
+    "open": "^11.0.1"
   },
   "devDependencies": {
     "publint": "^0.3.23"
