@@ -25,10 +25,10 @@
     "lint:publint": "publint"
   },
   "dependencies": {
-    "open": "^11.0.1"
+    "open": "^11.0.2"
   },
   "devDependencies": {
     "publint": "^0.3.24"
   },
-  "packageManager": "pnpm@11.24.0"
+  "packageManager": "pnpm@11.25.0"
 }
